@@ -1,0 +1,5 @@
+Nadam Test
+
+Stanford_Dogs: 79.0
+
+Food-101: 76.9

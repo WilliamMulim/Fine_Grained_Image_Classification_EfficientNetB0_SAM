@@ -1,0 +1,5 @@
+AMSGrad Test
+
+Stanford_Dogs: 78.4
+
+Food-101: 77.3

@@ -1,0 +1,8 @@
+Stanford Dogs:
+No SAM: 72.9
+With SAM: 78.9
+
+Food101
+No SAM: 75.2
+With SAM: 76.9
+

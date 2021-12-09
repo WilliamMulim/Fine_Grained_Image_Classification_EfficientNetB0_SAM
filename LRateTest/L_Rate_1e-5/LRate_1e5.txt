@@ -1,0 +1,4 @@
+LRate_1e-5
+Stanford_Dogs = 76.1 (Max Epoch)
+
+Food-101 = 70.9 (Max Epoch)

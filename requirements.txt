@@ -1,0 +1,6 @@
+graphviz
+pydot
+keras
+tensorflow-datasets
+tensorflow-gpu==2.4.0
+matplotlib

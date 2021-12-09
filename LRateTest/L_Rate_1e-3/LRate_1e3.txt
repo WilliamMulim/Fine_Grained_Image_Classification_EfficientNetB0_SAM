@@ -1,0 +1,4 @@
+LRate_1e-3
+Stanford_Dogs = 72.2
+
+Food-101 = 74,7

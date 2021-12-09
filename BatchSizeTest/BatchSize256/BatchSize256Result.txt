@@ -1,0 +1,5 @@
+Batch Size 256
+
+Stanford_Dogs: 79.2
+
+Food101: 77.0
